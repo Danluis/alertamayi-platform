@@ -6,6 +6,14 @@ Alertamed is a healthcare-focused platform designed to improve data management a
 
 This project focuses on building a scalable and maintainable system to handle critical medical data and workflows. It is designed with a fullstack architecture, ensuring performance and flexibility for future growth.
 
+## 🔗 Live Demo
+
+🌐 https://alertamayiqr.com/
+
+This is a live version of the platform where you can explore the interface and core features.
+
+> Note: Some functionalities may be restricted depending on user roles.
+
 ## ⚙️ Tech Stack
 
 **Frontend:**
