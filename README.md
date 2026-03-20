@@ -55,15 +55,21 @@ The system is designed using a modular architecture:
 
 ## 📸 Screenshots
 
+### Start
+
 <img width="1412" height="763" alt="image" src="https://github.com/user-attachments/assets/fde6da0b-e33c-469f-b22d-f622ddeaff48" />
 
+### Dashboard
 
+<img width="1408" height="766" alt="image" src="https://github.com/user-attachments/assets/4c0cda3f-9739-4e8f-9dce-a17f1a49e079" />
+
+### Data Management
 
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/99741506-9e50-45c9-8be7-644401b28387" />
 
+### Forms / Workflow
 
-
-<img width="1408" height="766" alt="image" src="https://github.com/user-attachments/assets/4c0cda3f-9739-4e8f-9dce-a17f1a49e079" />
+<img width="1402" height="779" alt="image" src="https://github.com/user-attachments/assets/dbf744c1-4301-4af5-be91-dd04945e0749" />
 
 
 ## 🔒 Note
