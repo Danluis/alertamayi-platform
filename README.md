@@ -10,6 +10,10 @@ This project focuses on building a scalable and maintainable system to handle cr
 
 🌐 https://alertamayiqr.com/
 
+## 🔗 Emergency QR & Public Profile
+
+https://alertamayiqr.com/HomePageQR/6
+
 This is a live version of the platform where you can explore the interface and core features.
 
 > Note: Some functionalities may be restricted depending on user roles.
@@ -51,7 +55,19 @@ The system is designed using a modular architecture:
 - Designed the fullstack architecture from scratch  
 - Developed backend APIs and database structure  
 - Built frontend interfaces focused on usability  
-- Ensured scalability and performance of the system  
+- Ensured scalability and performance of the system
+
+## 🚑 Emergency QR Feature
+
+One of the key features of Alertamed is the QR-based emergency access system.
+
+Each user can generate a unique QR code that, when scanned, redirects to a public page containing essential medical and contact information.
+
+This allows first responders or anyone nearby to quickly access critical data in emergency situations.
+
+- Instant access to important user information  
+- Designed for real-world emergency use  
+- Optimized for mobile devices  
 
 ## 📸 Screenshots
 
@@ -66,6 +82,10 @@ The system is designed using a modular architecture:
 ### Data Management
 
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/99741506-9e50-45c9-8be7-644401b28387" />
+
+### Emergency QR & Public Profile
+
+<img width="941" height="766" alt="image" src="https://github.com/user-attachments/assets/5ecc3854-e90c-429a-9236-4635b494c1dc" />
 
 ### Forms / Workflow
 
